@@ -10,7 +10,7 @@ FUNCTIONS:
 This Music Player is built using HTML,CSS and JavaScript.
 
 The layout changes with each song.
-The Layout Design of Music Player. 
+The Layout Design of Music Player: 
 
 
 
